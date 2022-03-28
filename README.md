@@ -5,4 +5,4 @@ This project was done for my Software Engineering subject.
 
 Below are some screenshots
 
-![Design preview for the ticket booking system](./design/Frame-1.jpg)
+![Design preview for the ticket booking system](./design/Frame%201.jpg)
