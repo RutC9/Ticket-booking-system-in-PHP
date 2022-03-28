@@ -1,0 +1,36 @@
+$base-background: rgba(0, 55, 126, 1);
+$button-orange: rgba(255, 94, 55, 1);
+$button-bg-blue: rgba(116, 199, 225, 1);
+$search-button-blue: rgba(41, 50, 65, 1);
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgba(0, 55, 126, 1);
+  font-family: "Roboto", sans-serif;
+  a {
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-weight: 300;
+    color: black;
+    margin: 2%;
+    font-weight: 200;
+  }
+  color: white;
+}
+
+header {
+  margin: 0 auto 5%;
+  background-color: $button-bg-blue;
+  padding: 1% 2%;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  width: 500px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
